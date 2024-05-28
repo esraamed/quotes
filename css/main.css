@@ -1,0 +1,13 @@
+button{
+    background-color:blue;
+   
+}
+button:hover{
+    background-color:pink;
+}
+h1{
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 700;
+    font-size: 80px;
+}
+
